@@ -1,7 +1,9 @@
-### Hello World, it's your girl Ayodele 👋
-#### (eye-uh-deli)
+### Hey Friends 👋
+<img src="Dazzling data_profiule.png"
+     alt="Ayodele Odubela Banner image"
+     style="float: left; margin-right: 10px;" />
 
-
+### I'm Ayodele (eye-uh-deli)
 
 - 🔭 I’m currently working on predicting & reducing driver risk @SambaSafety.
 - I'm currently building @fullyconnect_ed a platform to reduce the barrier to entry for Black and Brown folks in ML/AI.
