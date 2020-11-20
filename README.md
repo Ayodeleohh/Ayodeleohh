@@ -1,8 +1,6 @@
 ### Hey Friends 👋
-<img src="Dazzling data_profiule.png"
-     alt="Ayodele Odubela Banner image"
-     style="float: left; margin-right: 10px;" />
 
+[url=https://flic.kr/p/2k8Do7p][img]https://live.staticflickr.com/65535/50625980131_5136d3fbe3_h.jpg[/img][/url][url=https://flic.kr/p/2k8Do7p]Dazzling data_profiule[/url] by [url=https://www.flickr.com/photos/190984597@N03/]Ayodele Odubela[/url], on Flickr
 ### I'm Ayodele (eye-uh-deli)
 
 - 🔭 I’m currently working on predicting & reducing driver risk @SambaSafety.
