@@ -5,11 +5,11 @@
 she/her
 
 I'm a Linkedin Learning Instructor 👩🏾‍🏫
-[Supervised Machine Learning
+- [Supervised Machine Learning
 ](https://www.linkedin.com/learning/supervised-learning-essential-training/supervised-machine-learning-and-the-technology-boom?autoplay=true)
-[Tech Ethics on the Go: AI
+- [Tech Ethics on the Go: AI
 ](https://www.linkedin.com/learning/tech-on-the-go-ethics-in-ai/introduction-to-ethical-ai-16194406?autoplay=true)
-_Foundations of Responsible AI (coming soon)_
+- _Foundations of Responsible AI (coming soon)_
 
 Founder of a Responsible AI Consultancy 🚀
 [Ethical AI Champions
