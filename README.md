@@ -33,10 +33,9 @@ Interesting to know the rapper who has gotten into the least amount of beefs is 
 
 [Trump Regrets](https://github.com/Ayodeleohh/Trump-Regrets) 😭 As part of my Text Analysis and Natural Language Processing course in grad school, I created a sentiment analysis comparing the tweets of Donald Trump to those who regret voting for him. Below is a word cloud of common words used by those who regret voting for him.
 
-
 - I'm passionate about Data Science education
 - 👯 I’m looking to collaborate on projects & papers around machine bias, fairness metrics, & understanding power structures in AI.
 - 📫 How to reach me: ayodele@ethicalaichampions.com
 
 
-v
+
