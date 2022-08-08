@@ -27,7 +27,8 @@ hottie uh creole mami huh she think she bad but i'm dramatic hey
 
 My Data Science Master's Degree Capstone was on predicting[ NHL goals](https://github.com/Ayodeleohh/hockeyGoals). 🏒🥅🚨
 
-[Girlfight](https://github.com/Ayodeleohh/Girlfight) 🐾 A rudimentary python dictionary to explore popular female rap beefs. To save time Azalea Banks' full list of beefs has been excluded.
+[Girlfight*](https://github.com/Ayodeleohh/Girlfight) 🐾 A rudimentary python dictionary to explore popular female rap beefs. 
+*To save time Azalea Banks' full list of beefs has been excluded.
 
 Interesting to know the rapper who has gotten into the least amount of beefs is Khia. The “My Neck, My Back” rapper has only been in one major beef with  Trina.
 
